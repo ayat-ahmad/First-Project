@@ -13,6 +13,7 @@ import org.testng.annotations.Test;
 
 import static org.testng.Assert.ARRAY_MISMATCH_TEMPLATE;
 public class MyTestClass {
+	//AYAT
 	WebDriver driver = new ChromeDriver();
 
 	String myWebsite = "https://automationteststore.com/";
