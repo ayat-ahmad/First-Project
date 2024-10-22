@@ -20,7 +20,7 @@ public class MyTestClass {
 
 	String myWebsite = "https://automationteststore.com/";
 	String[] firstNames = { "ahmad", "ali", "anas", "omar", "ayat", "alaa", "sawsan", "Rama" };
-	String[] LastNames = { "Khaled", "mustafa", "Mohammad", "abdullah", "malek", "omar" };
+	String[] LastNames = { "Naseem","Khaled", "mustafa", "Mohammad", "abdullah", "malek", "omar" };
 
 	Random rand = new Random();
 
